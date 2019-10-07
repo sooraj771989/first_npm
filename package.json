@@ -1,6 +1,6 @@
 {
-  "name": "first_npm",
-  "version": "1.0.0",
+  "name": "@sooraj/tiny",
+  "version": "2.0.0",
   "description": "My First NPM Package",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "keywords": [
     "first",
     "npm",
-    "sooraj"
+    "sooraj",
+    "tiny",
+    "npm",
+    "package"
   ],
   "author": "Sooraj <sooraj771989@gmail.com>",
   "license": "MIT",
